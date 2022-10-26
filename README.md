@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruruma
 - 👀 I’m interested in Backend development, Tennis, Football and Board Games
-- 🌱 I’m currently learning Flask, FastAPI
+- 🌱 I’m currently learning Django, Flask, FastAPI
 - 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me on telegram @ruruma or via mail seymurguseynov77@gmail.com
 
